@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(146, 113, 113);
+}
+hr {
+    border-style: solid ;
+    border-color: rgb(255, 255, 255);
+    width: 30%;
+    border-width: 20px;
+}
+h2 {
+    color: rgb(0, 143, 2);
+}
+p {
+    color: blueviolet;
+}
+img {
+    border-radius: 50%;
+}
